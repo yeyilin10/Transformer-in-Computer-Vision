@@ -22,13 +22,9 @@ The transformer model, originally popularized in natural language processing, ha
 - torchvision
 - Other dependencies (specified in requirements.txt)
 
-### Installation
+### Preparation
 
-1. Clone the repository:
-   git clone https://github.com/your-username/transformer-computer-vision.git
-
-
-2. Install the required dependencies:
+1. Install the required dependencies:
    pip install -r requirements.txt
 
 
@@ -68,12 +64,11 @@ The performance of the models on the respective tasks is as follows:
 
 - ViT Image Classification:
 
-- Accuracy: 87.549%
 - Precision: 87.549%
 
 - DETR Object Detection:
 
-- Mean Average Precision (mAP): XX%
+- Mean Average Precision (mAP): (see report)
 
 For a detailed analysis of the results, please refer to the project report.
 
