@@ -1,4 +1,3 @@
-video link: https://youtu.be/Hq7GoofOvjQ
 Dataset for vit: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 Dataset for DETR: 1.https://soda-2d.github.io/
                   2.included in the file list named mycoco
