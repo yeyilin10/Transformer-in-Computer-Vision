@@ -64,11 +64,11 @@ The performance of the models on the respective tasks is as follows:
 
 - ViT Image Classification:
 
-- Precision: 87.549%
+   - Precision: 87.549%
 
 - DETR Object Detection:
 
-- Mean Average Precision (mAP): (see report)
+   - Mean Average Precision (mAP): (see report)
 
 For a detailed analysis of the results, please refer to the project report.
 
