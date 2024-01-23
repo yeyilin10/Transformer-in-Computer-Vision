@@ -29,7 +29,3 @@ The performance of the models on the respective tasks is as follows:
 For a detailed analysis of the results, please refer to the project report.
 
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
