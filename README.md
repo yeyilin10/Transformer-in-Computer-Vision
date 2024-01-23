@@ -10,55 +10,11 @@ The transformer model, originally popularized in natural language processing, ha
 
 - Implementation of Vision Transformer (ViT) for image classification
 - Implementation of Detection Transformer (DETR) for object detection
-- Visualization of attention maps and mean attention distance in ViT
+- Visualization of attention maps and mean attention distance in ViT and DERT
 - Evaluation of performance and comparison with traditional CNN-based approaches
 
-## Getting Started
 
-### Prerequisites
-
-- Python 3.x
-- PyTorch
-- torchvision
-- Other dependencies (specified in requirements.txt)
-
-### Preparation
-
-1. Install the required dependencies:
-   pip install -r requirements.txt
-
-
-### Usage
-
-1. Image Classification with ViT:
-
-- Run the training script for ViT:
-
-  ```
-  python train_vit.py
-  ```
-
-- Evaluate the trained model:
-
-  ```
-  python evaluate_vit.py
-  ```
-
-2. Object Detection with DETR:
-
-- Run the training script for DETR:
-
-  ```
-  python train_detr.py
-  ```
-
-- Evaluate the trained model:
-
-  ```
-  python evaluate_detr.py
-  ```
-
-### Results
+## Results
 
 The performance of the models on the respective tasks is as follows:
 
@@ -72,12 +28,7 @@ The performance of the models on the respective tasks is as follows:
 
 For a detailed analysis of the results, please refer to the project report.
 
-## Contributors
 
-- Jianzhe Yu 
-- Yufan Chen 
-- Yilin Ye 
-- Runze Li 
 
 ## License
 
